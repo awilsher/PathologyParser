@@ -244,5 +244,5 @@ def move(fromFile,toFile,start,length):
     f.close()
 
 #move('syp.csv','small.csv',0,-1)    
-r = loadFile('small.csv')
+#r = loadFile('small.csv')
 
